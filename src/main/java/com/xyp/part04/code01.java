@@ -105,4 +105,8 @@ public class code01 {
         return res;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }
